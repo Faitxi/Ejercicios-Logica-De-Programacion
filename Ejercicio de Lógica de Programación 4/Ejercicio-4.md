@@ -6,7 +6,6 @@
 
 - Input
   - Solicitar por prompt o input un número.
-  
 
 
 - Output
