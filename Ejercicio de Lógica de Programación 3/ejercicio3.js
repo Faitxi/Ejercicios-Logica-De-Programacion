@@ -18,3 +18,5 @@ let factorial = calcularFactorial(num);
 //Mostrar el resultado en consola
 
 console.log("El factorial de " + num + " es: " + factorial);
+
+
